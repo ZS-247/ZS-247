@@ -1,6 +1,6 @@
 <!-- Profile README for ZS-247 -->
 
-<h1 align="center">Hi, I'm Zakarya (ZS-247) 👋</h1>
+<h1 align="center">Hi, I'm Zakarya! 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Software%20Engineering-blue" />
   <img src="https://img.shields.io/badge/Location-Bradford-8A2BE2" />
@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-- 🎓 **Student @ Bradford** studying Software Engineering  
-- 💻 Passionate about open source, automation, and creative desktop utilities  
-- 🌍 Always tinkering with new tech and Linux setups
+- 🎓 **Student @ Bradford** studying BSc (Hons) Software Engineering  
+- 💻 Passionate about open source, automation, systems programing  
+- 🌍 Always tinkering with Linux setups and my [editor](https://github.com/neovim/neovim/) [config](github.com/ZS-247/kickstart.nvim)
 
 ---
 
@@ -61,11 +61,11 @@
 
 ## 🤓 Fun Fact
 
-> I love exploring how software can bend reality—whether that's making windows see-through or automating everyday tasks with Bash scripts!
+> Until 2015, GitHub Pages was hosted using a single multi-million-line nginx.conf :o
 
 ---
 
 <!-- Add your own mascot or ASCII art for extra flair -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F8CFF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Stay+curious+%F0%9F%94%A5;Happy+Coding+%F0%9F%A4%97" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2F8CFF&center=true&vCenter=true&width=440&lines=Hey%F0%9F%91%8B;Welcome+to+my+GitHub!" />
 </p>
