@@ -11,13 +11,14 @@
 
 ##  About Me
 
--  **Student @ Bradford** studying BSc (Hons) Software Engineering  
--  Passionate about open source, automation, systems programing  
+-  **Student @ Bradford** studying BSc (Hons) Software Engineering 
+- I'm from London but I've lived in over 6 countries including Singapore, Malaysia and Egypt.
+-  Passionate about open source, automation, systems programing and Brazilian Jujitsu!
 -  Never satisfied with my Linux setup or  [editor](https://github.com/neovim/neovim/) [config](github.com/ZS-247/kickstart.nvim)
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Languages:**  
 `JavaScript` | `C` | `C#` | `Bash` | `Python`
@@ -35,7 +36,7 @@
 <img src="https://img.shields.io/badge/Windows-Transparency-orange" />
 <img src="https://img.shields.io/badge/Latest-Active%20Development-brightgreen" />
 
-** Features:**
+### Features:
 - Instantly add transparency to any Windows window
 - Sleek tray UI for quick controls
 - Lightweight and easy to use
