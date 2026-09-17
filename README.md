@@ -21,7 +21,7 @@
 ##  Skills
 
 **Languages:**  
-`JavaScript` | `C` | `C#` | `Bash` | `Python`
+`JavaScript` | `C` | `Java` | `Python`
 
 **Other:**  
 `Linux` | `Nginx` | `Systems Automation` | and more!
@@ -31,7 +31,7 @@
 ##   Featured Project
 
 ### [BeTransparent](https://git.zakarya.me/zakarya/BeTransparent)
-> *Make any Windows program transparent or translucent—because why should your desktop be boring?*
+> *Make any Windows program transparent or translucent*
 
 <img src="https://img.shields.io/badge/Windows-Transparency-orange" />
 <img src="https://img.shields.io/badge/Latest-Active%20Development-brightgreen" />
