@@ -41,14 +41,14 @@
 - Sleek tray UI for quick controls
 - Lightweight and easy to use
 
-**Check it out on my [Personal Git Instance](https://git.zakarya.me/zakarya/BeTransparent)!**
+**Check it out on my [Personal Gitea Instance](https://git.zakarya.me/)! (update on that ..bad idea, [very bad](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/))**
 
 ---
 
 ##  Links
 
 -  [Website](https://zakarya.me/)
--  [Personal Git Instance](https://git.zakarya.me/)
+-  [Personal Git Instance](https://git.zakarya.me/) - No longer active. Check out [CVE-2026-60004](https://nvd.nist.gov/vuln/detail/cve-2026-60004)
 
 ---
 
