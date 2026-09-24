@@ -41,7 +41,7 @@
 - Sleek tray UI for quick controls
 - Lightweight and easy to use
 
-**Check it out on my [Personal Gitea Instance](https://git.zakarya.me/)! (update on that ..bad idea, [very bad](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/))**
+**Check it out on my [Personal Gitea Instance](https://git.zakarya.me/)! (update on that ..bad idea, [very bad](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/), why not check out my [website](https://zakarya.me/) and [blog](https://zakarya.me/blog) instead!)**
 
 ---
 
