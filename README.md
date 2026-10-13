@@ -11,7 +11,7 @@
 
 ##  About Me
 
--  **Student @ Bradford** studying BSc (Hons) Software Engineering 
+-  **Student in Bradford** studying BSc (Hons) Software Engineering 
 - I'm from London but I've lived in over 6 countries including Singapore, Malaysia and Egypt.
 -  Passionate about open source, automation, systems programing and Brazilian Jujitsu!
 -  Never satisfied with my Linux setup or  [editor](https://github.com/neovim/neovim/) [config](github.com/ZS-247/kickstart.nvim)
